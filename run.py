@@ -75,9 +75,7 @@ class Email_Boomber:
 			self.formated_mail = f'Subject: {self.subject}\n\n{self.message}'
 
 			self.server = smtplib.SMTP(self.service, self.port)
-			self.server.ehlo()
 			self.server.starttls()
-			self.server.ehlo()
 			self.server.login(self.sender, self.password)
 		except Exception as ex:
 			print (colors.RedBold + f"\nError> {ex}\n")
