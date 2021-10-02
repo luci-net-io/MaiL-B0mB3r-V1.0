@@ -32,7 +32,7 @@ Made with LOVE
 
 # RUNNNING
 * git clone https://github.com/luci-net-io/MaiLB0mB3r.git
-* cd MaiL-B0mB3r-V1.0
+* cd MaiLB0mB3r
 * chmod +x run.py
 * python3 run.py
 
