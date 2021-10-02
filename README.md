@@ -31,7 +31,7 @@ Made with LOVE
 * Low Secure app access enabled Email.
 
 # RUNNNING
-* git clone https://github.com/luci-net-io/MaiL-B0mB3r-V1.0
+* git clone https://github.com/luci-net-io/MaiLB0mB3r.git
 * cd MaiL-B0mB3r-V1.0
 * chmod +x run.py
 * python3 run.py
