@@ -1,3 +1,4 @@
+#!/bin/python
 '''Imports'''
 import sys
 import smtplib
