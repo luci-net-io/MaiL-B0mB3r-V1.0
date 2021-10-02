@@ -86,7 +86,7 @@ class Email_Boomber:
 		try:
 			self.server.sendmail(self.sender, self.target, self.formated_mail)
 			self.count += 1
-			time.sleep(5)
+			time.sleep(15)
 		except Exception as ex:
 			print (colors.RedBold + f"\nError> {ex}\n")
 
