@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python3.9
 '''Imports'''
 import sys
 import smtplib
